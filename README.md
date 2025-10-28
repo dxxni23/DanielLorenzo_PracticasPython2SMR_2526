@@ -9,8 +9,10 @@ Curso: 2º de Grado Medio en Sistemas Microinformáticos y Redes
 <hr>
 <br>
 Repositorio para las practicas de Python
-
-<h2>Español</h2>
+<br>
+<br>
+<br>
+<h2>INGLISH</h2>
 Nombre: Daniel Lorenzo 
 <br>
 Curso: 2º de Grado Medio en Sistemas Microinformáticos y Redes
