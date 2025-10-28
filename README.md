@@ -12,6 +12,7 @@ Repositorio para las practicas de Python
 <br>
 <br>
 <br>
+<hr>
 <h2>INGLISH</h2>
 Nombre: Daniel Lorenzo 
 <br>
