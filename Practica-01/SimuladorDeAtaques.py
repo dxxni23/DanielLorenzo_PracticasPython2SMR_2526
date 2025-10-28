@@ -62,18 +62,17 @@ while  simulacion == "si":
     usuarioconcontraseña_random = random.choice(Lista_de_usuario_y_contraseñas)
     print("usuario:", usuarioconcontraseña_random[0] , "/// contraseña:" , usuarioconcontraseña_random[1])
     contrasena_actual = usuarioconcontraseña_random[1].lower()
-    if (contrasena_actual == Lista_de_contraseñas_comunes[0] or
-        contrasena_actual == Lista_de_contraseñas_comunes[1] or
-        contrasena_actual == Lista_de_contraseñas_comunes[2] or
-        contrasena_actual == Lista_de_contraseñas_comunes[3] or
-        contrasena_actual == Lista_de_contraseñas_comunes[4]):
+    for contraseña_comun in Lista_de_contraseñas_comunes:
+        if contrasena_actual == contraseña_comun:
+            vulnerado = True
+            break
+    if vulnerado:
         print("La contraseña es mala")
         usuarios_vulnerados.append(usuarioconcontraseña_random[0])
-
     else:
         print("La contraseña está bien")
         usuario_no_vulnerado.append(usuarioconcontraseña_random[0])
-    simulacion = input("Quieres Hacer otra simulación si o no:  ")
+    simulacion = input("Quieres Hacer otra simulación si o no: ")
     
 print("-----------RESUMEN-----------")
 
