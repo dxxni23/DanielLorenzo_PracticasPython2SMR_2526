@@ -13,7 +13,7 @@ Curso: 2º de Grado Medio en Sistemas Microinformáticos y Redes
 <br>
 <br>
 <hr>
-<h2>🚩INGLISH🚩</h2>
+<h2>🚩ENGLISH🚩</h2>
 Nombre: Daniel Lorenzo 
 <br>
 Curso: 2º Medium Grade of Microcomputer Systems and Networks
