@@ -2,6 +2,7 @@
 <hr>
 <h2>Español</h2>
 </hr>
+<hr>
 Nombre: Daniel Lorenzo 
 <br>
 Curso: 2º de Grado Medio en Sistemas Microinformáticos y Redes
