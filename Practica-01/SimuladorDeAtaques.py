@@ -62,6 +62,7 @@ while  simulacion == "si":
     usuarioconcontraseña_random = random.choice(Lista_de_usuario_y_contraseñas)
     print("usuario:", usuarioconcontraseña_random[0] , "/// contraseña:" , usuarioconcontraseña_random[1])
     contrasena_actual = usuarioconcontraseña_random[1].lower()
+    vulnerado = False
     for contraseña_comun in Lista_de_contraseñas_comunes:
         if contrasena_actual == contraseña_comun:
             vulnerado = True
