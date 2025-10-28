@@ -20,3 +20,8 @@ Curso: 2º Medium Grade of Microcomputer Systems and Networks
 <hr>
 <br>
 🚧Repository for practics of Python🚧
+
+<hr>
+<h2>🎯EJERCICIOS / EXCERSISES🎯</h2>
+<br>
+- 1º ==
