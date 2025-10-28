@@ -23,5 +23,6 @@ Curso: 2º Medium Grade of Microcomputer Systems and Networks
 
 <hr>
 <h2>🎯EJERCICIOS / EXCERSISES🎯</h2>
+<hr>
 <br>
 - 1º ==
