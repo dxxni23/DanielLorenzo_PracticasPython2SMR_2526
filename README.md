@@ -1,6 +1,6 @@
-# DanielLorenzo_PracticasPython2SMR_2526
+<h1># DanielLorenzo_PracticasPython2SMR_2526</h1>
 <hr>
-Español:
+<h2>Español</h2>
 <hr>
 Nombre: Daniel Lorenzo 
 <br>
