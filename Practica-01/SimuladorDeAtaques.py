@@ -47,17 +47,17 @@ usuariobueno = ""
 usuariomalo = ""
 
         #Ejercicios#
-print("Pon tu usuario y contraseña")
+print("---Pon tu Usuario y Contraseña---")
 
 while  continuar== "si":
-    usuario = input("usuario: ")
-    contraseña = input("contraseña: ")
-    continuar = input("¿quieres poner mas usuarios? si o no: ")
+    usuario = input("Usuario: ")
+    contraseña = input("Contraseña: ")
+    continuar = input("¿Quieres Poner Mas Usuarios? // si o no: ")
     Lista_de_usuario_y_contraseñas.append ([usuario,contraseña])
 
-print("Número de usuarios guardados:", len(Lista_de_usuario_y_contraseñas))
+print("Número de Usuarios Guardados:", len(Lista_de_usuario_y_contraseñas))
 
-simulacion = input("Quieres Hacer la simulación si o no:  ") 
+simulacion = input("Quieres Hacer la simulación // si o no: ") 
 while  simulacion == "si":
     usuarioconcontraseña_random = random.choice(Lista_de_usuario_y_contraseñas)
     print("usuario:", usuarioconcontraseña_random[0] , "/// contraseña:" , usuarioconcontraseña_random[1])
@@ -68,14 +68,13 @@ while  simulacion == "si":
             vulnerado = True
             break
     if vulnerado:
-        print("La contraseña es mala")
+        print("La Contraseña es Vulnerable")
         usuarios_vulnerados.append(usuarioconcontraseña_random[0])
     else:
-        print("La contraseña está bien")
+        print("La contraseña no es Vulnerable")
         usuario_no_vulnerado.append(usuarioconcontraseña_random[0])
-    simulacion = input("Quieres Hacer otra simulación si o no: ")
+    simulacion = input("Quieres Hacer otra simulación // si o no: ")
     
 print("-----------RESUMEN-----------")
-
-print("Usuarios Vulnerados: ", usuarios_vulnerados)
-print("Usuarios Nos Vulnerados: ", usuario_no_vulnerado)
+print("Usuarios Vulnerables: ",usuarios_vulnerados)
+print("Usuarios No Vulnerables: ",usuario_no_vulnerado)
