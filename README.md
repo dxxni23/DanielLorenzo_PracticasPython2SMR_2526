@@ -9,9 +9,8 @@ Aquí encontrarás desarrollos personales, ejercicios, y experimentos que hacen 
 ---
 
 ## 🎯 ¿Qué hay aquí?
-- Proyectos variados: desde **scripts** útiles hasta mini-juegos y simulaciones 🔥
-- Código comentado para fácil comprensión 💬
-- Ejemplos ejecutables en terminal 🖥️
+- Información sobre Mi. 😍
+- Mis proyectos de Python. 🚩
 
 ---
 
