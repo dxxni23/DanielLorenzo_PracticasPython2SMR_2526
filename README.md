@@ -29,7 +29,7 @@ Aquí encontrarás desarrollos personales, ejercicios, y experimentos que hacen 
 ¡Soy Daniel!  
 Estudiante de Informática, apasionado por la programación y la ciberseguridad. Me gusta experimentar y aprender probando cosas nuevas 🚀  
 [Perfil GitHub](https://github.com/dxxni23)
-[Mi pagina Web](https://DanielLorenzo.verce.app)
+[Mi pagina Web](https://DanielLorenzo.vercel.app)
 ## ⭐ Colabora o sígueme
 
 - Haz tu *fork* y mejora algún proyecto 💡
