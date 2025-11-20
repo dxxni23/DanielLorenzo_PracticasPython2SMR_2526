@@ -19,7 +19,7 @@ Aquí encontrarás desarrollos personales, ejercicios, y experimentos que hacen 
 | Proyecto     | Descripción                                      | Estado          |
 |--------------|--------------------------------------------------|-----------------|
 | 🔫 Ataques  | Simulador de ataques, para contraseñas.         | ✅ Terminado    |
-| 🎮 juegos  | Lista de juegos,con opciones a elegir.        | ✅ Terminado    |
+| 🎮 juegos  | Lista de juegos, con opciones a elegir.        | ✅ Terminado    |
 
 ---
 
